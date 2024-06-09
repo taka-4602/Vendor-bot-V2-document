@@ -2,7 +2,8 @@
 Vendor-bot(v1)よりだいぶ強化されたV2のドキュメントです  
 PayPaython-mobileを使って自動で残高を受け取ることができます  
 説明にある通り無料で配布してるわけではないので、サーバー (https://discord.gg/aSyaAK7Ktm) かDiscordのDM (.taka.) にお願いします  
-※高いです
+※高いです  
+# まだ編集中です
 ## 始める前に
 ### 必要なモジュール  
 - discord.py
